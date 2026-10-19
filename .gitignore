@@ -1,0 +1,33 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environment / secrets — never commit real credentials
+.env
+
+# Generated report output
+devready_report.json
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Editor and backup artifacts
+*.save
+*.bak
+*.orig
+*_backup.py
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Nested duplicate project directory (local development artifact)
+devready-ai/
