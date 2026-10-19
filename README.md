@@ -252,9 +252,6 @@ If Ollama is unreachable, the app falls back to a built-in text summary — it n
 - Add a GitHub Actions CI workflow.
 - Support configurable dependency lists via CLI flags or a config file.
 
----
 
-## License
 
-This project is provided for educational purposes.
-Add a `LICENSE` file if you intend to share or reuse this code.
+
